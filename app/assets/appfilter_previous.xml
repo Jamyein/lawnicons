@@ -16523,5 +16523,4 @@
   <item component="ComponentInfo{com.uroad.piaogen/com.uroad.piaogen.activity.SplashActivity}" drawable="piaogen" name="票根 ~~ piaogen" />
   <item component="ComponentInfo{com.honda.vspAppAndroid/com.nsr.module_usercenter.ui.start.StartActivity}" drawable="honda" name="智能互联 ~~ hondazhinenghulian" />
 
-</appfilter>
 </resources>

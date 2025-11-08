@@ -16946,7 +16946,7 @@
   <item component="ComponentInfo{com.Arturo254.opentune/com.arturo254.opentune.MainActivity}" drawable="opentune" name="OpenTune" />
   <item component="ComponentInfo{com.tencent.mp/com.tencent.mp.feature.launcher.ui.LauncherActivity}" drawable="weixingongzhonghao" name="公众号助手 ~~ gongzhonghaozhushou" />
   <item component="ComponentInfo{me.rerere.rikkahub/me.rerere.rikkahub.RouteActivity}" drawable="rikkahub" name="RikkaHub" />
-  <item component="ComponentInfo{com.szlanyou.hondaiov/com.szlanyou.scattered.ui.HondaStartActivity}" drawable="" name="东风本田 ~~ honda" />
-  <item component="ComponentInfo{com.uroad.piaogen/com.uroad.piaogen.activity.SplashActivity}" drawable="" name="票根 ~~ piaogen" />
-  <item component="ComponentInfo{com.honda.vspAppAndroid/com.nsr.module_usercenter.ui.start.StartActivity}" drawable="" name="智能互联 ~~ hondazhinenghulian" />
+  <item component="ComponentInfo{com.szlanyou.hondaiov/com.szlanyou.scattered.ui.HondaStartActivity}" drawable="honda2" name="东风本田 ~~ honda" />
+  <item component="ComponentInfo{com.uroad.piaogen/com.uroad.piaogen.activity.SplashActivity}" drawable="piaogen" name="票根 ~~ piaogen" />
+  <item component="ComponentInfo{com.honda.vspAppAndroid/com.nsr.module_usercenter.ui.start.StartActivity}" drawable="honda" name="智能互联 ~~ hondazhinenghulian" />
 </resources>

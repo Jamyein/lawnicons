@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_8" data-name=" 图层 8" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 192 192">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 12px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #000;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M30.2,151.5c-4.3,2.5-9.3-1-9.3-6.6V52.3c0-5.5,4.9-9,9.2-6.7l83.3,46.4c3.5,2,3.5,7.5,0,9.6,0,0-83.2,49.8-83.2,49.8Z"/>
+  <path class="cls-1" d="M59.2,167.2c-8.2,4.9-18-1.6-17.9-11.9l1.3-119.3c0-9.7,9.5-15.8,17.3-11.2l107.1,63.3c5.5,3.2,5.5,11.1,0,14.4,0,0-107.8,64.7-107.8,64.7Z"/>
+  <line class="cls-3" x1="106" y1="88.7" x2="133.1" y2="68.9"/>
+  <circle class="cls-2" cx="139.5" cy="89.9" r="4.6"/>
+</svg>

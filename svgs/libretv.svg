@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_4" data-name="图层 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="96" cy="96" r="74.89"/>
+  <path class="cls-1" d="M76.74,121.78v-61.99c0-3.24,3.58-5.2,6.31-3.45l51.88,33.25c2.17,1.39,2.11,4.57-.1,5.89l-50.92,30.37c-3.16,1.88-7.17-.39-7.17-4.07Z"/>
+</svg>

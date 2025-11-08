@@ -16910,4 +16910,43 @@
   <item component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}" drawable="kugou" name="酷狗 ~~ KuGou" />
   <item component="ComponentInfo{com.kugou.android.lite/com.kugou.android.app.splash.SplashActivity}" drawable="kugou_lite" name="酷狗概念版 ~~ KuGou Lite" />
   <item component="ComponentInfo{com.omardotdev.lumi/com.omardotdev.lumi.MainActivity}" drawable="lumi" name="Lumi" />
+  <item component="ComponentInfo{com.oneplus.bbs/com.oplus.community.activity.LauncherActivity}" drawable="oneplus_community" name="一加社区 ~~ oplus community" />
+  <item component="ComponentInfo{kylec.me.lightbookkeeping/kylec.me.lightbookkeeping.HomeActivity}" drawable="yiyujizhang" name="一羽记账 ~~ lightbookkeeping" />
+  <item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.launcher.SpeechAssistMainActivity}" drawable="xiaobuzhushou" name="小布助手 ~~ heytap" />
+  <item component="ComponentInfo{andes.oplus.documentsreader/andes.oplus.documentsreader.launcher.activity.MainActivity}" drawable="oneplus_documents" name="文档 ~~ oplus documentsreader" />
+  <item component="ComponentInfo{com.oneplus.member/com.oppo.usercenter.vip.UCVIPMainActivity}" drawable="my_oneplus" name="我的一加 ~~ oneplus" />
+  <item component="ComponentInfo{com.larus.nova/com.larus.home.impl.alias.AliasActivity1}" drawable="doubao" name="豆包 ~~ nova" />
+  <item component="ComponentInfo{com.lanjinger.choiassociatedpress/com.lanjinger.choiassociatedpress.main.LaunchActivity}" drawable="cailianshe" name="财联社 ~~ choiassociatedpress" />
+  <item component="ComponentInfo{com.jin10/com.jin10.lgd.splash.SplashActivity}" drawable="jinshi" name="金十数据 ~~ jin10" />
+  <item component="ComponentInfo{com.coloros.familyguard/com.coloros.familyguard.FakeActivity}" drawable="family_safe" name="家人守护 ~~ familyguard" />
+  <item component="ComponentInfo{com.gelonghui.glhapp/com.gelonghui.glhapp.components.splash.SplashActivity}" drawable="gelonghui" name="格隆汇 ~~ gelonghui" />
+  <item component="ComponentInfo{nutstore.android/nutstore.android.SplashScreen}" drawable="jianguoyun" name="坚果云 ~~ nutstore" />
+  <item component="ComponentInfo{com.wallstreetcn.news/com.wallstreetcn.news.ProxyMainActivity}" drawable="huaerjieribao" name="华尔街见闻 ~~ wallstreetcn" />
+  <item component="ComponentInfo{com.tencent.hunyuan.app.chat/com.tencent.hunyuan.app.chat.biz.login.NewLoginActivity}" drawable="yuanbao" name="腾讯元宝 ~~ Tencent Yuanbao" />
+  <item component="ComponentInfo{com.qianyan.eudic/com.eusoft.dict.activity.SplashActivity}" drawable="oulucidian" name="欧路词典 ~~ Eusoft Dict" />
+  <item component="ComponentInfo{com.ss.android.auto/com.ss.android.auto.policy.AutoPrivacyActivity}" drawable="dongchedi" name="懂车帝 ~~dongchedi" />
+  <item component="ComponentInfo{com.dongqiudi.news/com.dongqiudi.news.BaseSplashActivity}" drawable="dongqiudi" name="懂球帝 ~~ dongqiudi" />
+  <item component="ComponentInfo{com.example.c001apk.compose/com.example.c001apk.compose.ui.main.MainActivity}" drawable="c001apk" name="c001apk-compose" />
+  <item component="ComponentInfo{xyz.chatboxapp.chatbox/xyz.chatboxapp.chatbox.MainActivity}" drawable="chatbox" name="Chatbox" />
+  <item component="ComponentInfo{com.hwinzniej.musichelper/com.hwinzniej.musichelper.MainActivity}" drawable="playlist_nb" name="Playlist NB" />
+  <item component="ComponentInfo{com.pocketpalai/com.pocketpal.MainActivity}" drawable="pocketpal" name="PocketPal" />
+  <item component="ComponentInfo{com.nikon.snapbridge.cmru/com.nikon.snapbridge.cmru.ui.init.NkLLicenceActivity}" drawable="snapbridge" name="SnapBridge" />
+  <item component="ComponentInfo{com.tanasi.streamflix/com.tanasi.streamflix.activities.main.MainMobileActivity}" drawable="streamflix" name="Streamflix" />
+  <item component="ComponentInfo{com.flyfishstudio.wearosbox/com.flyfishstudio.wearosbox.view.activity.MainActivity}" drawable="wearos_" name="WearOS 工具箱 ~~ WearOS Toolbox" />
+  <item component="ComponentInfo{com.hush.yamby/com.hush.yamby.ui.activity.SplashActivity}" drawable="yamby" name="Yamby" />
+  <item component="ComponentInfo{com.zhuiluobo.box/com.radish.radish.MainActivity}" drawable="zhuiluobo" name="追萝卜 ~~ zhuiluobo" />
+  <item component="ComponentInfo{com.capyreader.app/com.capyreader.app.MainActivity}" drawable="capy_reader" name="capy reader" />
+  <item component="ComponentInfo{com.samsung.android.samsungpay.gear/com.samsung.android.samsungpay.gear.ui.SpayMainActivity}" drawable="samsungpay" name="samsungpay" />
+  <item component="ComponentInfo{com.ruguoapp.jike/com.ruguoapp.jike.standard}" drawable="jike" name="即刻 ~~ Ji Ke" />
+  <item component="ComponentInfo{com.zwfw.YueZhengYi/com.tencent.wework.launch.WwMainActivity}" drawable="yuezhengyi" name="粤政易 ~~ Wecome" />
+  <item component="ComponentInfo{com.singularity.tiangong/com.singularity.tiangong.MainActivity}" drawable="tiangongai" name="天工AI ~~ Tiangong AI" />
+  <item component="ComponentInfo{com.metaso/com.metaso.main.ui.activity.SplashActivity}" drawable="mitaaisousuo" name="秘塔AI搜索 ~~ Mita AI Search" />
+  <item component="ComponentInfo{com.bilingify.readest/com.bilingify.readest.MainActivity}" drawable="readest" name="readest" />
+  <item component="ComponentInfo{com.libretv.app/com.libretv.app.MainActivity}" drawable="libretv" name="libretv" />
+  <item component="ComponentInfo{com.Arturo254.opentune/com.arturo254.opentune.MainActivity}" drawable="opentune" name="OpenTune" />
+  <item component="ComponentInfo{com.tencent.mp/com.tencent.mp.feature.launcher.ui.LauncherActivity}" drawable="weixingongzhonghao" name="公众号助手 ~~ gongzhonghaozhushou" />
+  <item component="ComponentInfo{me.rerere.rikkahub/me.rerere.rikkahub.RouteActivity}" drawable="rikkahub" name="RikkaHub" />
+  <item component="ComponentInfo{com.szlanyou.hondaiov/com.szlanyou.scattered.ui.HondaStartActivity}" drawable="" name="东风本田 ~~ honda" />
+  <item component="ComponentInfo{com.uroad.piaogen/com.uroad.piaogen.activity.SplashActivity}" drawable="" name="票根 ~~ piaogen" />
+  <item component="ComponentInfo{com.honda.vspAppAndroid/com.nsr.module_usercenter.ui.start.StartActivity}" drawable="" name="智能互联 ~~ hondazhinenghulian" />
 </resources>
